@@ -206,5 +206,13 @@
     "type": "xrc20",
     "symbol": "GFT",
     "decimals": 18
+  },
+   "io1au2tmyh2px0tuhkhphn80el4usps267y76q2x7": {
+    "name": "Zeny Token",
+    "description": "RPG Game Currency",
+    "logo": "io1au2tmyh2px0tuhkhphn80el4usps267y76q2x7.png",
+    "type": "xrc20",
+    "symbol": "ZENY",
+    "decimals": 6
   }
 }
